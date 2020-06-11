@@ -1,4 +1,4 @@
-## usermod
+# usermod
 
 usermod -G groupname username (这种会把用户从其他组中去掉，只属于该组)
 如:usermod -G git git (git 只属于 git 组)

@@ -1,4 +1,5 @@
-Vim 打开文件
+# Vim 打开文件
+
 使用 Vim 打开文件很简单，例如在命令行模式下打开一个自己编写的文件 /test/vi.test，打开方法如下:
 [root@itxdl ~]# vim /test/vi.test
 

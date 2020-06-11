@@ -110,7 +110,7 @@ UNIX/Linux 系统可以粗糙地抽象为 3 个层次(所谓粗糙，就是不�
 
    应用层提供基于 X Window 协议的图形环境。X Window 协议定义了一个系统所必须具备的功能(就如同 TCP/IP 是一个协议，定义软件所应具备的功能)，可系统能满足此协议及符合 X 协会其他的规范，便可称为 X Window。
 
-现在大多数的 UNIX 系统上(包括 Solaris、HP-UX、AIX 等)都可以运行 CDE (Common Desktop Environment，通用桌面环境，是运行于 UNIX 的商业桌面环境)的用户界面；而在 Linux 上广泛应用的有 Gnome(、KDE 等。
+现在大多数的 UNIX 系统上(包括 Solaris、HP-UX、AIX 等)都可以运行 CDE (Common Desktop Environment，通用桌面环境，是运行于 UNIX 的商业桌面环境) 的用户界面；而在 Linux 上广泛应用的有 Gnome、KDE 等。
 
 ## 协议
 

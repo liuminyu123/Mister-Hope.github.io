@@ -29,7 +29,7 @@ sudo adduser git
 usermod -a -G <目录所在组> git
 ```
 
-然后将部署目录的权限设置为 `775`，即允许同组访问。这样 git就有权限访问部署目录。
+然后将部署目录的权限设置为 `775`，即允许同组访问。这样 git 就有权限访问部署目录。
 
 ## 添加权限
 
@@ -62,7 +62,7 @@ git init --separate-git-dir=. <部署位置>
 
 这会将 git 库保持在 `/home/git/<仓库名>` 下，同时将工作区设置到部署文件夹中。
 
-接下来执行：
+接下来执行:
 
 ```sh
 git config receive.denyCurrentBranch ignore
